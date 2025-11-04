@@ -5,4 +5,5 @@ accelerate>=1.11.0
 bitsandbytes>=0.42.0
 torch>=2.0.0
 numpy>=2.0.0
+wandb>=0.17.0
 
