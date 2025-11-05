@@ -44,8 +44,8 @@ Since the original "The Old Man and the Sea" was not included in the training da
 >and come back, and it was only when he had gone away again that he
 >couldn’t stay with it.
 >
->“What happened to you?” he asked the sea.
->...
->what happened to me.”
+>“What happened to you?” he asked the sea.<br>
+>...<br>
+>what happened to me.”<br>
 >
 >“You must have been very sick,” the sea said.
